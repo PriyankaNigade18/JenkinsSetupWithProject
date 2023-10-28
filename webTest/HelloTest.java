@@ -12,7 +12,7 @@ public class HelloTest {
 
 		
 		System.out.println("Test Completed!");
-		
+		System.out.println("Test for Git");		
 	}
 
 }
