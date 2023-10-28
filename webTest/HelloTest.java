@@ -10,6 +10,9 @@ public class HelloTest {
 			System.out.println("Hello");
 		}
 
+		
+		System.out.println("Test Completed!");
+		
 	}
 
 }
